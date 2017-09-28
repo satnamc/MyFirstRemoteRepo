@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 class Demo{
 
 public void main(String args[]){
 System.out.println("Hello steve");
 }
 }
+=======
+Welcome to git 
+>>>>>>> 7693eb51e9185a05fb507a84ed78fc1bb4b1cb0f

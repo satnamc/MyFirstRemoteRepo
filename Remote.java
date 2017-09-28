@@ -1,4 +1,4 @@
-class Demo{
+class Remote{
 
 public static void main(String[] args)
 {
